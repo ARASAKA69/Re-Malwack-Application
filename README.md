@@ -19,6 +19,8 @@
 
 ## 📱 Features
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%">
@@ -44,18 +46,24 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🏗️ **Architecture Overview**
 
+<div align="center">
+
 ### 📦 **Core Components**
 
 | Component | Purpose | Technology |
-|-----------|---------|------------|
+|:---------:|:-------:|:----------:|
 | **UI Layer** | Modern interface with Jetpack Compose | ![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose) |
 | **ViewModel** | State management with MVVM pattern | ![Architecture](https://img.shields.io/badge/-Architecture-34A853?style=flat-square&logo=android) |
 | **Repository** | Root operations and data handling | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin) |
 | **Services** | Background processing and updates | ![WorkManager](https://img.shields.io/badge/-WorkManager-FF6F00?style=flat-square&logo=android) |
+
+</div>
 
 ---
 
@@ -78,6 +86,8 @@
 
 ## 📋 **Requirements**
 
+<div align="center">
+
 > **⚠️ Important:** This app requires root access to function properly.
 
 <table>
@@ -93,13 +103,15 @@
 <td width="50%">
 
 ### 🔧 **Recommended Setup**
-- **Magisk Module** for systemless modifications
-- **Re-Malwack Module** for enhanced functionality
+- **Root Access** (Magisk, KSU, or APatch)
+- **Re-Malwack Module** (latest build recommended)
 - **Stable internet connection** for updates
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -109,9 +121,9 @@
 
 | Language | Code | Status | Contributor |
 |:--------:|:----:|:------:|:-----------:|
-| 🇩🇪 **Deutsch** | `de` | ✅ Complete | [@ZG089](https://github.com/ZG089) |
-| 🇺🇸 **English** | `en` | ✅ Complete | [@ZG089](https://github.com/ZG089) |
-| 🇵🇱 **Polski** | `pl` | ✅ Complete | [@ZG089](https://github.com/ZG089) |
+| 🇩🇪 **Deutsch** | `de` | ✅ Complete | [@ARASAKA69](https://github.com/ARASAKA69) |
+| 🇺🇸 **English** | `en` | ✅ Complete | [@ARASAKA69](https://github.com/ARASAKA69) |
+| 🇵🇱 **Polski** | `pl` | ✅ Complete | [@ARASAKA69](https://github.com/ARASAKA69) |
 
 </div>
 
@@ -133,6 +145,8 @@ We welcome contributions from the community! Here's how you can help:
 8. **🔄 Open** a Pull Request
 
 ### 📝 **Contribution Guidelines**
+
+<div align="center">
 
 <table>
 <tr>
@@ -159,15 +173,21 @@ We welcome contributions from the community! Here's how you can help:
 </tr>
 </table>
 
+</div>
+
 ### 🎯 **Areas for Contribution**
 
+<div align="center">
+
 | Area | Description | Difficulty |
-|------|-------------|------------|
+|:----:|:-----------:|:----------:|
 | 🌐 **Translations** | Add support for new languages | ![Beginner](https://img.shields.io/badge/-Beginner-green) |
 | 🎨 **UI/UX** | Improve interface and user experience | ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow) |
 | 🔧 **Features** | Add new blocking categories or features | ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow) |
 | 🐛 **Bug Fixes** | Fix reported issues and bugs | ![All Levels](https://img.shields.io/badge/-All%20Levels-blue) |
 | 📚 **Documentation** | Improve code documentation | ![Beginner](https://img.shields.io/badge/-Beginner-green) |
+
+</div>
 
 ---
 
@@ -179,11 +199,11 @@ We welcome contributions from the community! Here's how you can help:
 
 | Component | Progress | Status |
 |:---------:|:--------:|:------:|
-| **Core Functionality** | ![90%](https://progress-bar.dev/90) | ✅ Stable |
-| **UI/UX Design** | ![95%](https://progress-bar.dev/95) | ✅ Complete |
-| **Multi-language** | ![85%](https://progress-bar.dev/85) | 🔄 Active |
-| **Testing** | ![70%](https://progress-bar.dev/70) | 🔄 In Progress |
-| **Documentation** | ![80%](https://progress-bar.dev/80) | 🔄 Active |
+| **Core Functionality** | ![90%](https://progress-bar.dev/90?title=90%) | ✅ Stable |
+| **UI/UX Design** | ![95%](https://progress-bar.dev/95?title=95%) | ✅ Complete |
+| **Multi-language** | ![85%](https://progress-bar.dev/85?title=85%) | 🔄 Active |
+| **Testing** | ![70%](https://progress-bar.dev/70?title=70%) | 🔄 In Progress |
+| **Documentation** | ![80%](https://progress-bar.dev/80?title=80%) | 🔄 Active |
 
 </div>
 
@@ -214,6 +234,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### 🙏 **Acknowledgments**
 
 Special thanks to:
+- **[ZG089](https://github.com/ZG089)** for Re-Malwack Module - the core power of our app
 - **[topjohnwu](https://github.com/topjohnwu)** for LibSU
 - **Android Team** for Jetpack Compose
 - **Material Design Team** for design guidelines
