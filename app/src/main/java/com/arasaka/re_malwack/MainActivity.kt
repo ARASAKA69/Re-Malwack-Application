@@ -90,7 +90,7 @@ private val SunIcon: ImageVector
     ).apply {
         path(
             fill = null,
-            stroke = androidx.compose.ui.graphics.SolidColor(androidx.compose.ui.graphics.Color.Black),
+            stroke = androidx.compose.ui.graphics.SolidColor(Color.Black),
             strokeLineWidth = 2f,
             strokeLineCap = androidx.compose.ui.graphics.StrokeCap.Round,
             strokeLineJoin = androidx.compose.ui.graphics.StrokeJoin.Round
@@ -127,7 +127,7 @@ private val MoonIcon: ImageVector
     ).apply {
         path(
             fill = null,
-            stroke = androidx.compose.ui.graphics.SolidColor(androidx.compose.ui.graphics.Color.Black),
+            stroke = androidx.compose.ui.graphics.SolidColor(Color.Black),
             strokeLineWidth = 2f,
             strokeLineCap = androidx.compose.ui.graphics.StrokeCap.Round,
             strokeLineJoin = androidx.compose.ui.graphics.StrokeJoin.Round
@@ -149,7 +149,7 @@ private val PaletteIcon: ImageVector
     ).apply {
         path(
             fill = null,
-            stroke = androidx.compose.ui.graphics.SolidColor(androidx.compose.ui.graphics.Color.Black),
+            stroke = androidx.compose.ui.graphics.SolidColor(Color.Black),
             strokeLineWidth = 2f,
             strokeLineCap = androidx.compose.ui.graphics.StrokeCap.Round,
             strokeLineJoin = androidx.compose.ui.graphics.StrokeJoin.Round
@@ -167,7 +167,7 @@ private val PaletteIcon: ImageVector
             close()
         }
         path(
-            fill = androidx.compose.ui.graphics.SolidColor(androidx.compose.ui.graphics.Color.Black),
+            fill = androidx.compose.ui.graphics.SolidColor(Color.Black),
             stroke = null
         ) {
             moveTo(6.5f, 10.5f)
@@ -195,7 +195,7 @@ private val SystemIcon: ImageVector
     ).apply {
         path(
             fill = null,
-            stroke = androidx.compose.ui.graphics.SolidColor(androidx.compose.ui.graphics.Color.Black),
+            stroke = androidx.compose.ui.graphics.SolidColor(Color.Black),
             strokeLineWidth = 2f,
             strokeLineCap = androidx.compose.ui.graphics.StrokeCap.Round,
             strokeLineJoin = androidx.compose.ui.graphics.StrokeJoin.Round
@@ -274,8 +274,10 @@ fun ReMalwackApp(viewModel: MainViewModel, themeManager: ThemeManager) {
     var showLanguageDialog by remember { mutableStateOf(false) }
     
             LaunchedEffect(appState.isRootAvailable) {
-        if (appState.isRootAvailable && !appState.isMagiskModuleInstalled) {
-        }
+                when {
+                    appState.isRootAvailable && !appState.isMagiskModuleInstalled -> {
+                    }
+                }
     }
     
     Box(

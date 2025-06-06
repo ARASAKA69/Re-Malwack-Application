@@ -5,13 +5,13 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
 import com.arasaka.re_malwack.ReMalwackApplication
 import com.arasaka.re_malwack.data.repository.RootRepository
-import com.arasaka.re_malwack.utils.Constants
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
-import java.util.*
+import java.util.Date
+import java.util.Locale
 
 data class AppState(
     val isRootAvailable: Boolean = false,
@@ -307,7 +307,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
         )
     }
     
-    private suspend fun downloadAndCombineHosts(): String {
+    private fun downloadAndCombineHosts(): String {
         val hostsBuilder = StringBuilder()
         
         hostsBuilder.appendLine("# Re-Malwack Hosts File")

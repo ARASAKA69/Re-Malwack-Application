@@ -7,6 +7,7 @@ import android.os.Build
 import com.arasaka.re_malwack.data.repository.RootRepository
 import com.arasaka.re_malwack.utils.Constants
 import com.topjohnwu.superuser.Shell
+import com.topjohnwu.superuser.Shell.FLAG_REDIRECT_STDERR
 
 class ReMalwackApplication : Application() {
     
@@ -24,7 +25,7 @@ class ReMalwackApplication : Application() {
         Shell.enableVerboseLogging = false
         Shell.setDefaultBuilder(
             Shell.Builder.create()
-                .setFlags(Shell.FLAG_REDIRECT_STDERR)
+                .setFlags(FLAG_REDIRECT_STDERR)
                 .setTimeout(10)
         )
     }

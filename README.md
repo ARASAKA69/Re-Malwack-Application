@@ -80,14 +80,14 @@
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:------------:|:----------------:|
-| **Language** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) |
-| **UI Framework** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) |
-| **Design System** | ![Material Design](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white) |
-| **Root Access** | ![LibSU](https://img.shields.io/badge/LibSU-FF5722?style=for-the-badge&logo=android&logoColor=white) |
-| **Background Work** | ![WorkManager](https://img.shields.io/badge/WorkManager-FF6F00?style=for-the-badge&logo=android&logoColor=white) |
-| **Data Storage** | ![DataStore](https://img.shields.io/badge/DataStore-009688?style=for-the-badge&logo=android&logoColor=white) |
+|    **Category**     |                                                           **Technologies**                                                            |
+|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+|    **Language**     |                 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)                 |
+|  **UI Framework**   |   ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)   |
+|  **Design System**  | ![Material Design](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white) |
+|   **Root Access**   |                 ![LibSU](https://img.shields.io/badge/LibSU-FF5722?style=for-the-badge&logo=android&logoColor=white)                  |
+| **Background Work** |           ![WorkManager](https://img.shields.io/badge/WorkManager-FF6F00?style=for-the-badge&logo=android&logoColor=white)            |
+|  **Data Storage**   |             ![DataStore](https://img.shields.io/badge/DataStore-009688?style=for-the-badge&logo=android&logoColor=white)              |
 
 </div>
 
@@ -128,11 +128,11 @@
 
 <div align="center">
 
-| Language | Code | Status | Contributor |
-|:--------:|:----:|:------:|:-----------:|
+|     Language     | Code |   Status   |                Contributor                 |
+|:----------------:|:----:|:----------:|:------------------------------------------:|
 | 🇩🇪 **Deutsch** | `de` | ✅ Complete | [@ARASAKA69](https://github.com/ARASAKA69) |
 | 🇺🇸 **English** | `en` | ✅ Complete | [@ARASAKA69](https://github.com/ARASAKA69) |
-| 🇵🇱 **Polski** | `pl` | ✅ Complete | [@ARASAKA69](https://github.com/ARASAKA69) |
+| 🇵🇱 **Polski**  | `pl` | ✅ Complete | [@ARASAKA69](https://github.com/ARASAKA69) |
 
 </div>
 
@@ -192,13 +192,13 @@ We welcome contributions from the community! Here's how you can help:
 
 <div align="center">
 
-| Area | Description | Difficulty |
-|:----:|:-----------:|:----------:|
-| 🌐 **Translations** | Add support for new languages | ![Beginner](https://img.shields.io/badge/-Beginner-green) |
-| 🎨 **UI/UX** | Improve interface and user experience | ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow) |
-| 🔧 **Features** | Add new blocking categories or features | ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow) |
-| 🐛 **Bug Fixes** | Fix reported issues and bugs | ![All Levels](https://img.shields.io/badge/-All%20Levels-blue) |
-| 📚 **Documentation** | Improve code documentation | ![Beginner](https://img.shields.io/badge/-Beginner-green) |
+|         Area         |               Description               |                             Difficulty                             |
+|:--------------------:|:---------------------------------------:|:------------------------------------------------------------------:|
+| 🌐 **Translations**  |      Add support for new languages      |     ![Beginner](https://img.shields.io/badge/-Beginner-green)      |
+|     🎨 **UI/UX**     |  Improve interface and user experience  | ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow) |
+|   🔧 **Features**    | Add new blocking categories or features | ![Intermediate](https://img.shields.io/badge/-Intermediate-yellow) |
+|   🐛 **Bug Fixes**   |      Fix reported issues and bugs       |   ![All Levels](https://img.shields.io/badge/-All%20Levels-blue)   |
+| 📚 **Documentation** |       Improve code documentation        |     ![Beginner](https://img.shields.io/badge/-Beginner-green)      |
 
 </div>
 
@@ -210,13 +210,13 @@ We welcome contributions from the community! Here's how you can help:
 
 ### 🎯 **Development Progress**
 
-| Component | Progress | Status |
-|:---------:|:--------:|:------:|
-| **Core Functionality** | ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen?style=flat-square) | ✅ Stable |
-| **UI/UX Design** | ![95%](https://img.shields.io/badge/Progress-95%25-brightgreen?style=flat-square) | ✅ Complete |
-| **Multi-language** | ![85%](https://img.shields.io/badge/Progress-85%25-green?style=flat-square) | 🔄 Active |
-| **Testing** | ![70%](https://img.shields.io/badge/Progress-70%25-yellow?style=flat-square) | 🔄 In Progress |
-| **Documentation** | ![80%](https://img.shields.io/badge/Progress-80%25-green?style=flat-square) | 🔄 Active |
+|       Component        |                                     Progress                                      |     Status     |
+|:----------------------:|:---------------------------------------------------------------------------------:|:--------------:|
+| **Core Functionality** | ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen?style=flat-square) |    ✅ Stable    |
+|    **UI/UX Design**    | ![95%](https://img.shields.io/badge/Progress-95%25-brightgreen?style=flat-square) |   ✅ Complete   |
+|   **Multi-language**   |    ![85%](https://img.shields.io/badge/Progress-85%25-green?style=flat-square)    |   🔄 Active    |
+|      **Testing**       |   ![70%](https://img.shields.io/badge/Progress-70%25-yellow?style=flat-square)    | 🔄 In Progress |
+|   **Documentation**    |    ![80%](https://img.shields.io/badge/Progress-80%25-green?style=flat-square)    |   🔄 Active    |
 
 </div>
 
@@ -226,11 +226,11 @@ We welcome contributions from the community! Here's how you can help:
 
 <div align="center">
 
-| Platform | Purpose | Link |
-|:--------:|:-------:|:----:|
-| 🐛 **Issues** | Bug reports & feature requests | [![Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/issues) |
-| 💬 **Discussions** | Community discussions | [![Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/discussions) |
-| ⭐ **Stars** | Show your support | [![Stars](https://img.shields.io/badge/GitHub-Stars-yellow?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/stargazers) |
+|      Platform      |            Purpose             |                                                                                  Link                                                                                   |
+|:------------------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   🐛 **Issues**    | Bug reports & feature requests |         [![Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/issues)         |
+| 💬 **Discussions** |     Community discussions      | [![Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/discussions) |
+|    ⭐ **Stars**     |       Show your support        |      [![Stars](https://img.shields.io/badge/GitHub-Stars-yellow?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/stargazers)       |
 
 </div>
 
