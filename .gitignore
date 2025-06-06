@@ -1,0 +1,98 @@
+# Build outputs
+*.iml
+.gradle/
+/local.properties
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*/build/
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Gradle files
+gradle/
+gradlew
+gradlew.bat
+gradle.properties
+build.gradle.kts
+settings.gradle.kts
+libs.versions.toml
+
+# Kotlin
+.kotlin/
+*.hprof
+
+# Debug builds only (allow release builds for distribution)
+app/build/outputs/apk/debug/
+**/build/outputs/apk/debug/
+app/build/outputs/bundle/debug/
+**/build/outputs/bundle/debug/
+
+# Build intermediates and temporary files
+**/build/intermediates/
+**/build/tmp/
+**/build/generated/
+**/build/kotlin/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Local configuration
+local.properties
+
+# Proguard
+proguard/
+
+# Log files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ
+out/
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Version control
+.svn/
+
+# Backup files
+*.tmp
+*.bak
+app/src/test/java/com/arasaka/re_malwack/ExampleUnitTest.kt
+app/proguard-rules.pro
+app/release/output-metadata.json
+app/release/baselineProfiles/0/Re-Malwack_v0.2.0.dm
+app/release/baselineProfiles/1/Re-Malwack_v0.2.0.dm
+app/src/androidTest/java/com/arasaka/re_malwack/ExampleInstrumentedTest.kt
+app/src/main/res/xml/backup_rules.xml
+app/src/main/res/xml/data_extraction_rules.xml

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Re-Malwack</string>
+
+    <string name="notification_channel_hosts_update">Aktualizacja Hosts</string>
+    <string name="notification_channel_hosts_update_description">Powiadomienia o aktualizacjach pliku hosts</string>
+    <string name="notification_channel_status">Status</string>
+    <string name="notification_channel_status_description">Ogólne powiadomienia o statusie</string>
+    <string name="notification_channel_error">Błąd</string>
+    <string name="notification_channel_error_description">Powiadomienia o błędach</string>
+
+    <string name="notification_updating_hosts">Aktualizowanie hosts</string>
+    <string name="notification_updating_hosts_description">Pobieranie nowych list hosts...</string>
+    <string name="notification_progress_complete">ukończone</string>
+    <string name="notification_update_complete">Aktualizacja ukończona</string>
+    <string name="notification_hosts_updated_successfully">Plik hosts zaktualizowany pomyślnie</string>
+    <string name="notification_update_failed">Aktualizacja nie powiodła się</string>
+
+    <string name="error_no_root">Dostęp root niedostępny</string>
+    <string name="error_hosts_update_failed">Aktualizacja hosts nie powiodła się</string>
+    <string name="error_backup_failed">Kopia zapasowa nie powiodła się</string>
+    <string name="error_restore_failed">Przywracanie nie powiodło się</string>
+
+    <string name="root_access_available">Dostęp root dostępny</string>
+    <string name="root_access_required">Wymagany dostęp root</string>
+    <string name="blocking_status">Status Blokowania</string>
+    <string name="active">Aktywny</string>
+    <string name="inactive">Nieaktywny</string>
+    <string name="blocked_domains">zablokowane domeny</string>
+    <string name="updating_hosts">Aktualizowanie hosts...</string>
+
+    <string name="update">Aktualizuj</string>
+    <string name="backup">Kopia zapasowa</string>
+    <string name="restore">Przywróć</string>
+    <string name="settings">Ustawienia</string>
+
+    <string name="blocking_categories">Kategorie Blokowania</string>
+    <string name="adult_content">Treści dla dorosłych</string>
+    <string name="gambling">Hazard</string>
+    <string name="fake_news">Fake News</string>
+    <string name="social_media">Media społecznościowe</string>
+
+    <string name="auto_update">Auto-aktualizacja</string>
+    <string name="auto_update_description">Automatyczne codzienne aktualizacje</string>
+
+    <string name="information">Informacje</string>
+    <string name="last_update">Ostatnia aktualizacja</string>
+    <string name="magisk_module">Moduł</string>
+    <string name="installed">Zainstalowany</string>
+    <string name="not_installed">Nie zainstalowany</string>
+    <string name="version">Wersja</string>
+    
+    <string name="hosts_updated_successfully">Hosts zaktualizowane pomyślnie</string>
+    <string name="hosts_backed_up_successfully">Hosts zabezpieczone pomyślnie</string>
+    <string name="hosts_restored_successfully">Hosts przywrócone pomyślnie</string>
+    
+    <string name="menu_language">Język</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_about">O aplikacji</string>
+    <string name="app_preferences">Preferencje aplikacji</string>
+    <string name="app_information">Informacje o aplikacji</string>
+    <string name="protection_suite">Pakiet Ochrony</string>
+    <string name="advanced_protection">Zaawansowana Ochrona</string>
+    <string name="select_language">Wybierz język</string>
+    <string name="close">Zamknij</string>
+    
+    <string name="magisk_module_required">Wymagany moduł</string>
+    <string name="install_module_to_enable">Zainstaluj moduł aby włączyć ochronę</string>
+    <string name="module_required_description">Ta aplikacja wymaga zainstalowania modułu Re-Malwack. Proszę zainstalować moduł z repozytorium GitHub i uruchomić ponownie urządzenie.</string>
+    <string name="download_latest_module">Pobierz najnowszy moduł</string>
+    
+    <string name="protection_status">Status Ochrony</string>
+    <string name="active_protection">Aktywna Ochrona</string>
+    <string name="protection_inactive">Ochrona nieaktywna</string>
+    <string name="protection_categories">Kategorie Ochrony</string>
+</resources> 
