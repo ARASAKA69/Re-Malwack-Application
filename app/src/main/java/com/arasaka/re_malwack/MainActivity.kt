@@ -382,6 +382,49 @@ fun ReMalwackApp(viewModel: MainViewModel, themeManager: ThemeManager) {
                 }
             }
             
+
+            
+            item {
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.Center
+                ) {
+                    Box(
+                        modifier = Modifier
+                            .border(
+                                width = 1.dp,
+                                brush = Brush.linearGradient(
+                                    colors = listOf(
+                                        Color(0xFF4CAF50),
+                                        Color(0xFF2196F3),
+                                        Color(0xFF4CAF50)
+                                    )
+                                ),
+                                shape = RoundedCornerShape(20.dp)
+                            )
+                            .clip(RoundedCornerShape(20.dp))
+                            .background(
+                                color = MaterialTheme.colorScheme.surface.copy(alpha = 0.8f),
+                                shape = RoundedCornerShape(20.dp)
+                            )
+                            .clickable {
+                                val intent = Intent(Intent.ACTION_VIEW,
+                                    "https://github.com/ZG089".toUri())
+                                context.startActivity(intent)
+                            }
+                            .padding(horizontal = 16.dp, vertical = 8.dp)
+                    ) {
+                        Text(
+                            text = "Powered by Re-Malwack @ZG089",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurface,
+                            textAlign = TextAlign.Center,
+                            fontWeight = FontWeight.Medium
+                        )
+                    }
+                }
+            }
+            
             item {
                 Spacer(modifier = Modifier.height(20.dp))
             }
