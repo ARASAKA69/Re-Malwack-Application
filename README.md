@@ -1,6 +1,14 @@
+<div align="center">
+
 # 🛡️ Re-Malwack Android App
 
 > **Advanced Ad & Malware Blocker** - A modern Android application for comprehensive protection against ads, malware, and unwanted content.
+
+```
+🛡️ For all Re-Malwack lovers out there - Keep your devices safe! 🛡️
+```
+
+</div>
 
 <div align="center">
 
@@ -9,9 +17,9 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-[![GitHub stars](https://img.shields.io/github/stars/ZG089/Re-Malwack?style=social)](https://github.com/ZG089/Re-Malwack/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ZG089/Re-Malwack?style=social)](https://github.com/ZG089/Re-Malwack/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/ZG089/Re-Malwack)](https://github.com/ZG089/Re-Malwack/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ARASAKA69/Re-Malwack-Application?style=social)](https://github.com/ARASAKA69/Re-Malwack-Application/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ARASAKA69/Re-Malwack-Application?style=social)](https://github.com/ARASAKA69/Re-Malwack-Application/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/ARASAKA69/Re-Malwack-Application)](https://github.com/ARASAKA69/Re-Malwack-Application/issues)
 
 </div>
 
@@ -131,6 +139,8 @@
 
 ## 🤝 **Contributing**
 
+<div align="center">
+
 We welcome contributions from the community! Here's how you can help:
 
 ### 🚀 **Getting Started**
@@ -143,6 +153,8 @@ We welcome contributions from the community! Here's how you can help:
 6. **📝 Commit** with clear messages
 7. **📤 Push** to your branch
 8. **🔄 Open** a Pull Request
+
+</div>
 
 ### 📝 **Contribution Guidelines**
 
@@ -199,11 +211,11 @@ We welcome contributions from the community! Here's how you can help:
 
 | Component | Progress | Status |
 |:---------:|:--------:|:------:|
-| **Core Functionality** | ![90%](https://progress-bar.dev/90?title=90%) | ✅ Stable |
-| **UI/UX Design** | ![95%](https://progress-bar.dev/95?title=95%) | ✅ Complete |
-| **Multi-language** | ![85%](https://progress-bar.dev/85?title=85%) | 🔄 Active |
-| **Testing** | ![70%](https://progress-bar.dev/70?title=70%) | 🔄 In Progress |
-| **Documentation** | ![80%](https://progress-bar.dev/80?title=80%) | 🔄 Active |
+| **Core Functionality** | ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen?style=flat-square) | ✅ Stable |
+| **UI/UX Design** | ![95%](https://img.shields.io/badge/Progress-95%25-brightgreen?style=flat-square) | ✅ Complete |
+| **Multi-language** | ![85%](https://img.shields.io/badge/Progress-85%25-green?style=flat-square) | 🔄 Active |
+| **Testing** | ![70%](https://img.shields.io/badge/Progress-70%25-yellow?style=flat-square) | 🔄 In Progress |
+| **Documentation** | ![80%](https://img.shields.io/badge/Progress-80%25-green?style=flat-square) | 🔄 Active |
 
 </div>
 
@@ -215,9 +227,9 @@ We welcome contributions from the community! Here's how you can help:
 
 | Platform | Purpose | Link |
 |:--------:|:-------:|:----:|
-| 🐛 **Issues** | Bug reports & feature requests | [![Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/ZG089/Re-Malwack/issues) |
-| 💬 **Discussions** | Community discussions | [![Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/ZG089/Re-Malwack/discussions) |
-| ⭐ **Stars** | Show your support | [![Stars](https://img.shields.io/badge/GitHub-Stars-yellow?style=for-the-badge&logo=github)](https://github.com/ZG089/Re-Malwack/stargazers) |
+| 🐛 **Issues** | Bug reports & feature requests | [![Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/issues) |
+| 💬 **Discussions** | Community discussions | [![Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/discussions) |
+| ⭐ **Stars** | Show your support | [![Stars](https://img.shields.io/badge/GitHub-Stars-yellow?style=for-the-badge&logo=github)](https://github.com/ARASAKA69/Re-Malwack-Application/stargazers) |
 
 </div>
 
@@ -225,7 +237,11 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📄 **License**
 
+<div align="center">
+
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+</div>
 
 ---
 
@@ -243,6 +259,10 @@ Special thanks to:
 ---
 
 **Made with ❤️ by [ARASAKA](https://github.com/ARASAKA69)**
+
+```
+🛡️ For all Re-Malwack lovers out there - Keep your devices safe! 🛡️
+```
 
 [![GitHub](https://img.shields.io/badge/GitHub-ARASAKA69-181717?style=for-the-badge&logo=github)](https://github.com/ARASAKA69)
 
