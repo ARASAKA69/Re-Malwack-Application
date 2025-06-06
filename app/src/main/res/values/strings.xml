@@ -9,7 +9,7 @@
     <string name="notification_channel_error_description">Error notifications</string>
     
     <string name="notification_updating_hosts">Updating hosts</string>
-    <string name="notification_updating_hosts_description">Downloading new hosts lists...</string>
+    <string name="notification_updating_hosts_description">Downloading new hosts lists…</string>
     <string name="notification_progress_complete">complete</string>
     <string name="notification_update_complete">Update complete</string>
     <string name="notification_hosts_updated_successfully">Hosts file updated successfully</string>
